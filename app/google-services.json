@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1025553922538",
+    "firebase_url": "https://grandmintlogin-6a16c.firebaseio.com",
+    "project_id": "grandmintlogin-6a16c",
+    "storage_bucket": "grandmintlogin-6a16c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025553922538:android:addc137f50a495e0",
+        "android_client_info": {
+          "package_name": "com.vendoor.apps.grandmintlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025553922538-n2ng6k8tk0dt5f5k6jr5c32nv3egotqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz6SPun_a9zHwBN6wMjipzUbQz6ppB3AE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
